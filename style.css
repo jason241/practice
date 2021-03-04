@@ -38,6 +38,12 @@ header{
 #search-btn:hover{
     background-color: darkblue;
 }
+#right-info{
+    position: absolute;
+    right: 40px;
+    top:40px;
+    padding-right: 100px;
+}
 .hot-type{
     position: absolute;
     left: 160px;
